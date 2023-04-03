@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React with Docker 2 deleted!!
+          React with Docker
         </a>
       </header>
     </div>
